@@ -3,7 +3,6 @@
 
 <div align=center>
 
-<img src="https://github-readme-stats.vercel.app/api?username=czarekmilek&theme=omni&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarekmilek&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Langauges" height="200"/>
 
 ---
