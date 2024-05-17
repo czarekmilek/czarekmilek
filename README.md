@@ -41,7 +41,7 @@
 <a href="https://github.com/czarekmilek?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=pink&logo=repo"/></a>
 
 
-<h3>⚡ Recent GitHub Activity</h3
+<h3>⚡ Recent GitHub Activity</h3>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
