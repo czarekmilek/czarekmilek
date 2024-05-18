@@ -1,32 +1,13 @@
 name: Update README
-
 on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
-
 jobs:
   build:
     name: Update this repo's README with recent activity
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - uses: actions/checkout@v3
-      - name: Set up Git repository
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-      - name: Fetch recent activity
-        uses: jamesgeorge007/github-activity-readme@master
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
-          REPOSITORY: czarekmilek/czarekmilek
-
-      - name: Commit and push if there are changes
-        run: |
-          git add README.md
-          git commit -m "Update README with recent activity" || exit 0
-          git push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
