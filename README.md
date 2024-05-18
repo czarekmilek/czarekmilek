@@ -40,8 +40,9 @@
 
 <a href="https://github.com/czarekmilek?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=pink&logo=repo"/></a>
 
+---
 
-<h3>⚡ Recent GitHub Activity</h3>
+<h3 align="left">⚡ Recent GitHub Activity</h3>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [czarekmilek/czarekmilek](https://github.com/czarekmilek/czarekmilek)<br>
 2. ⬆️ Pushed 1 commit(s) to [czarekmilek/czarekmilek](https://github.com/czarekmilek/czarekmilek)<br>
@@ -49,15 +50,17 @@
 4. ⬆️ Pushed 1 commit(s) to [czarekmilek/czarekmilek](https://github.com/czarekmilek/czarekmilek)<br>
 5. ⬆️ Pushed 1 commit(s) to [czarekmilek/Numbers-Problem](https://github.com/czarekmilek/Numbers-Problem)<br>
 <!--RECENT_ACTIVITY:end-->
+<br>
 
+<i>
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, May 18th, 2024, 6:12:56 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
+</i>
 
-> <!--RECENT_ACTIVITY:last_update-->
-> 
-> <!--RECENT_ACTIVITY:last_update_end-->
-
+<br>
 </div>
+
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=czarekmilek&icon=5&color=9)](https://visitcount.itsvg.in)
