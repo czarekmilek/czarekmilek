@@ -43,26 +43,6 @@
 <a href="https://github.com/czarekmilek?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=pink&logo=repo"/></a>
 
 ---
-
-<h3 align="left">⚡ Recent GitHub Activity</h3>
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [czarekmilek/czarekmilek.github.io](https://github.com/czarekmilek/czarekmilek.github.io)<br>
-2. 📔 Created new repository [czarekmilek/czarekmilek.github.io](https://github.com/czarekmilek/czarekmilek.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [czarekmilek/czarekmilek](https://github.com/czarekmilek/czarekmilek)<br>
-4. ⬆️ Pushed 1 commit(s) to [czarekmilek/czarekmilek](https://github.com/czarekmilek/czarekmilek)<br>
-5. ⬆️ Pushed 1 commit(s) to [czarekmilek/czarekmilek](https://github.com/czarekmilek/czarekmilek)<br>
-<!--RECENT_ACTIVITY:end-->
-<br>
-
-<i>
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 22nd, 2024, 12:35:55 PM (GMT)
-<!--RECENT_ACTIVITY:last_update_end-->
-</i>
-
-<br>
 </div>
-
-<br>
 
 [![](https://visitcount.itsvg.in/api?id=czarekmilek&icon=5&color=9)](https://visitcount.itsvg.in)
