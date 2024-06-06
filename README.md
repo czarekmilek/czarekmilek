@@ -10,6 +10,47 @@
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Stats" height="185" />
 
+---
+
+<h3 align="left">🗒University courses</h3>
+
+- **[Kurs React](https://github.com/czarekmilek/UWR/tree/main/Kurs%20React)**: Comprehensive course on React.
+- **[Kurs rozszerzony języka Python](https://github.com/czarekmilek/UWR/tree/main/Kurs%20rozszerzony%20j%C4%99zyka%20Python)**: Advanced course on Python.
+- **[Programowanie Obiektowe](https://github.com/czarekmilek/UWR/tree/main/Programowanie%20Obiektowe)**: Detailed course on Object-Oriented Programming principles and applications.
+- **[Kurs języka C++](https://github.com/czarekmilek/UWR/tree/main/Kurs%20j%C4%99zyka%20C%2B%2B)**: Course on C++ programming language fundamentals and advanced features.
+- **[Wybrane elementy praktyki projektowania oprogramowania](https://github.com/czarekmilek/UWR/tree/main/Wybrane%20elementy%20praktyki%20projektowania%20oprogramowania)**: Course on software design, covering best practices and methodologies.
+- **[Kurs projektowania aplikacji z bazami danych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20projektowania%20aplikacji%20z%20bazami%20danych)**: Course on database application design, including querying and optimization techniques.
+</a>
+</div>
+
+
+---
+
+<h3 align="left">🗒Some of my other projects</h3>
+
+<div class="grid-container">
+  <a href="https://github.com/czarekmilek/NIFS3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=NIFS3&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="NIFS3">
+  </a>
+  <a href="https://github.com/czarekmilek/GreenVeggies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=GreenVeggies&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact&width=500&height=120" alt="GreenVeggies stats">
+  </a>
+    <a href="https://github.com/czarekmilek/Ben10_TextGame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Ben10_TextGame&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Ben10_TextGame stats">
+  </a>
+  <a href="https://github.com/czarekmilek/Numbers-Problem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Numbers-Problem&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Numbers-Problem stats">
+  </a>
+    <a href="https://github.com/czarekmilek/Chinese-Cell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Chinese-Cell&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Chinese-Cell stats">
+  </a>
+    <a href="https://github.com/czarekmilek/Coins-Problem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Coins-Problem&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Coins-Problem stats">
+  </a>
+</div>
+
+<a href="https://github.com/czarekmilek?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=pink&logo=repo"/></a>
+
 
 ---
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,26 +64,6 @@
 
 ---
 
-<h3 align="left">🗒 Some of my projects</h3>
-
-<div class="grid-container">
-  <a href="https://github.com/czarekmilek/NIFS3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=NIFS3&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="UWR stats">
-  </a>
-  <a href="https://github.com/czarekmilek/GreenVeggies">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=GreenVeggies&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact&width=500&height=120" alt="GreenVeggies stats">
-  </a>
-  <a href="https://github.com/czarekmilek/Chinese-Cell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Chinese-Cell&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Chinese-Cell stats">
-  </a>
-  <a href="https://github.com/czarekmilek/Coins-Problem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Coins-Problem&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Coins-Problem stats">
-  </a>
-</div>
-
-<a href="https://github.com/czarekmilek?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=pink&logo=repo"/></a>
-
----
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=czarekmilek&icon=5&color=9)](https://visitcount.itsvg.in)
