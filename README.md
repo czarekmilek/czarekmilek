@@ -18,8 +18,8 @@
 - **[Kurs rozszerzony języka Python](https://github.com/czarekmilek/UWR/tree/main/Kurs%20rozszerzony%20j%C4%99zyka%20Python)**: Advanced course on Python.
 - **[Programowanie Obiektowe](https://github.com/czarekmilek/UWR/tree/main/Programowanie%20Obiektowe)**: Detailed course on Object-Oriented Programming principles and applications.
 - **[Kurs języka C++](https://github.com/czarekmilek/UWR/tree/main/Kurs%20j%C4%99zyka%20C%2B%2B)**: Course on C++ programming language fundamentals and advanced features.
-- **[Wybrane elementy praktyki projektowania oprogramowania](https://github.com/czarekmilek/UWR/tree/main/Wybrane%20elementy%20praktyki%20projektowania%20oprogramowania)**: Course on software design, covering best practices and methodologies.
-- **[Kurs projektowania aplikacji z bazami danych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20projektowania%20aplikacji%20z%20bazami%20danych)**: Course on database application design, including querying and optimization techniques.
+- **[Wybrane elementy praktyki projektowania oprogramowania](https://github.com/czarekmilek/UWR/tree/main/Wybrane%20elementy%20praktyki%20projektowania%20oprogramowania)**: Course focused on selected elements of software design practice, covering best practices and methodologies.
+- **[Kurs projektowania aplikacji z bazami danych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20projektowania%20aplikacji%20z%20bazami%20danych)**: Course on database application design, including modeling, querying, and optimization techniques.
 </a>
 </div>
 
