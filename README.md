@@ -22,13 +22,13 @@
 | **[Wybrane elementy praktyki projektowania oprogramowania](https://github.com/czarekmilek/UWR/tree/main/Wybrane%20elementy%20praktyki%20projektowania%20oprogramowania)** | Course focused on selected elements of software design practice, covering best practices and methodologies. |
 | **[Rachunek Prawdopodobieństwa i Statystyka](https://github.com/czarekmilek/UWR/tree/main/Rachunek%20Prawdopodobie%C5%84stwa%20i%20Statystyka)** | Course materials and exercises related to probability theory and statistics. |
 | **[Inżynieria oprogramowania](https://github.com/czarekmilek/UWR/tree/main/In%C5%BCynieria%20Oprogramowania)** | Course focused on software engineering principles, contains documents such as system specifications and conceptual designs. |
-| **[Machine Learning](https://github.com/czarekmilek/UWR/tree/main/Machine%20Learning)** | Machine Learning concepts and techniques, covers topics like data preprocessing, model training and evaluation. |
-| **[Kurs: Zaawansowane technologie Javy](https://github.com/czarekmilek/UWR/tree/main/Kurs%20Zaawansowany%20Java)** | Course delves into topics like JavaBeans, RMI, networking and web technologies like servlets and Tomcat. |
-| **[Kurs języka Java](https://github.com/czarekmilek/UWR/tree/main/Kurs%20Java)** | Course covers fundamentals of Java programming. |
+| **[Machine Learning](https://github.com/czarekmilek/UWR/tree/main/Machine%20Learning)** | Machine Learning concepts and techniques, focused on topics like data preprocessing, model training and evaluation. |
+| **[Kurs: Zaawansowane technologie Javy](https://github.com/czarekmilek/UWR/tree/main/Kurs%20Zaawansowany%20Java)** | Course about Java topics like JavaBeans, RMI, networking and web technologies like servlets and Tomcat. |
+| **[Kurs języka Java](https://github.com/czarekmilek/UWR/tree/main/Kurs%20Java)** | Course on fundamentals of Java programming. |
 | **[Kurs języka C++](https://github.com/czarekmilek/UWR/tree/main/Kurs%20j%C4%99zyka%20C%2B%2B)** | Course on C++ programming language fundamentals and advanced features. |
 | **[Kurs rozszerzony języka Python](https://github.com/czarekmilek/UWR/tree/main/Kurs%20rozszerzony%20j%C4%99zyka%20Python)** | Advanced course on Python. |
-| **[Kurs: Tworzenie aplikacji frontendowych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20tworzenia%20aplikacj%20frontendowych)** | Course about developing frontend applications, cover basics of frontend development. |
-| **[Kurs React](https://github.com/czarekmilek/UWR/tree/main/Kurs%20React)** | Comprehensive course on React. |
+| **[Kurs: Tworzenie aplikacji frontendowych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20tworzenia%20aplikacj%20frontendowych)** | Course delving into developing frontend applications, cover basics of frontend development. |
+| **[Kurs: React](https://github.com/czarekmilek/UWR/tree/main/Kurs%20React)** | Comprehensive course on React. |
 | **[Kurs projektowania aplikacji z bazami danych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20projektowania%20aplikacji%20z%20bazami%20danych)** | Course on database application design, including modeling, querying, and optimization techniques. |
 
 </div>
@@ -36,9 +36,12 @@
 
 ---
 
-<h3 align="left">Some of my other projects</h3>
+<h3 align="left">Some other projects</h3>
 
 <div class="grid-container">
+  <a href="https://github.com/czarekmilek/Music-Genre-Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Music-Genre-Classifier&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Music-Genre-Classifier">
+  </a>
   <a href="https://github.com/czarekmilek/NIFS3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=NIFS3&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="NIFS3">
   </a>
@@ -47,6 +50,9 @@
   </a>
     <a href="https://github.com/czarekmilek/Ben10_TextGame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Ben10_TextGame&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Ben10_TextGame stats">
+  </a>
+  <a href="https://github.com/czarekmilek/Traceroute">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Traceroute&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Traceroute">
   </a>
   <a href="https://github.com/czarekmilek/Numbers-Problem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Numbers-Problem&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Numbers-Problem stats">
