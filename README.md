@@ -12,24 +12,31 @@
 
 ---
 
-<h3 align="left">🗒University courses</h3>
+<h3 align="left">University courses 📚</h3>
 
-- **[Analiza Numeryczna](https://github.com/czarekmilek/UWR/tree/main/Analiza%20Numeryczna)**: Coursework and exercises focusing on numerical methods for solving mathematical problems, numerical approximation and error analysis.
-- **[Kurs React](https://github.com/czarekmilek/UWR/tree/main/Kurs%20React)**: Comprehensive course on React.
-- **[Kurs języka C++](https://github.com/czarekmilek/UWR/tree/main/Kurs%20j%C4%99zyka%20C%2B%2B)**: Course on C++ programming language fundamentals and advanced features.
-- **[Kurs projektowania aplikacji z bazami danych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20projektowania%20aplikacji%20z%20bazami%20danych)**: Course on database application design, including modeling, querying, and optimization techniques.
-- **[Kurs rozszerzony języka Python](https://github.com/czarekmilek/UWR/tree/main/Kurs%20rozszerzony%20j%C4%99zyka%20Python)**: Advanced course on Python.
-- **[Metody Programowania](https://github.com/czarekmilek/UWR/tree/main/Metody%20Programowania)**: Materials and assignments related to different programming paradigms and methodologies.
-- **[Programowanie Obiektowe](https://github.com/czarekmilek/UWR/tree/main/Programowanie%20Obiektowe)**: Detailed course on Object-Oriented Programming principles and applications.
-- **[Wybrane elementy praktyki projektowania oprogramowania](https://github.com/czarekmilek/UWR/tree/main/Wybrane%20elementy%20praktyki%20projektowania%20oprogramowania)**: Course focused on selected elements of software design practice, covering best practices and methodologies.
-- **[Rachunek Prawdopodobieństwa i Statystyka](https://github.com/czarekmilek/UWR/tree/main/Rachunek%20Prawdopodobie%C5%84stwa%20i%20Statystyka)**: Course materials and exercises related to probability theory and statistics.  
-</a>
+| **Name** | **Description** |
+|----------|-----------------|
+| **[Analiza Numeryczna](https://github.com/czarekmilek/UWR/tree/main/Analiza%20Numeryczna)** | Coursework and exercises focusing on numerical methods for solving mathematical problems, numerical approximation and error analysis. |
+| **[Metody Programowania](https://github.com/czarekmilek/UWR/tree/main/Metody%20Programowania)** | Materials and assignments related to different programming paradigms and methodologies. |
+| **[Programowanie Obiektowe](https://github.com/czarekmilek/UWR/tree/main/Programowanie%20Obiektowe)** | Detailed course on Object-Oriented Programming principles and applications. |
+| **[Wybrane elementy praktyki projektowania oprogramowania](https://github.com/czarekmilek/UWR/tree/main/Wybrane%20elementy%20praktyki%20projektowania%20oprogramowania)** | Course focused on selected elements of software design practice, covering best practices and methodologies. |
+| **[Rachunek Prawdopodobieństwa i Statystyka](https://github.com/czarekmilek/UWR/tree/main/Rachunek%20Prawdopodobie%C5%84stwa%20i%20Statystyka)** | Course materials and exercises related to probability theory and statistics. |
+| **[Inżynieria oprogramowania](https://github.com/czarekmilek/UWR/tree/main/In%C5%BCynieria%20Oprogramowania)** | Course focused on software engineering principles, contains documents such as system specifications and conceptual designs. |
+| **[Machine Learning](https://github.com/czarekmilek/UWR/tree/main/Machine%20Learning)** | Machine Learning concepts and techniques, covers topics like data preprocessing, model training and evaluation. |
+| **[Kurs: Zaawansowane technologie Javy](https://github.com/czarekmilek/UWR/tree/main/Kurs%20Zaawansowany%20Java)** | Course delves into topics like JavaBeans, RMI, networking and web technologies like servlets and Tomcat. |
+| **[Kurs języka Java](https://github.com/czarekmilek/UWR/tree/main/Kurs%20Java)** | Course covers fundamentals of Java programming. |
+| **[Kurs języka C++](https://github.com/czarekmilek/UWR/tree/main/Kurs%20j%C4%99zyka%20C%2B%2B)** | Course on C++ programming language fundamentals and advanced features. |
+| **[Kurs rozszerzony języka Python](https://github.com/czarekmilek/UWR/tree/main/Kurs%20rozszerzony%20j%C4%99zyka%20Python)** | Advanced course on Python. |
+| **[Kurs: Tworzenie aplikacji frontendowych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20tworzenia%20aplikacj%20frontendowych)** | Course about developing frontend applications, cover basics of frontend development. |
+| **[Kurs React](https://github.com/czarekmilek/UWR/tree/main/Kurs%20React)** | Comprehensive course on React. |
+| **[Kurs projektowania aplikacji z bazami danych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20projektowania%20aplikacji%20z%20bazami%20danych)** | Course on database application design, including modeling, querying, and optimization techniques. |
+
 </div>
 
 
 ---
 
-<h3 align="left">🗒Some of my other projects</h3>
+<h3 align="left">Some of my other projects</h3>
 
 <div class="grid-container">
   <a href="https://github.com/czarekmilek/NIFS3">
