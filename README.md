@@ -8,7 +8,7 @@
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Commits" height="185"/>
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Stats" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=contribs,issues" alt="Stats" height="185"/>
 
 ---
 
