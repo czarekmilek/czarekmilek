@@ -4,7 +4,7 @@
 <div align=left>
 
 <h3>💻 GitHub Profile Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Langauges" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Langauges" height="185"/>
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Commits" height="185"/>
 -->
