@@ -4,7 +4,7 @@
 <div align=left>
 
 <h3>💻 GitHub Profile Stats</h3>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Langauges" height="185"/>
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Commits" height="185"/>
 -->
@@ -39,9 +39,7 @@
 <h3 align="left">Some other projects</h3>
 
 <div class="grid-container">
-  <a href="https://github.com/czarekmilek/Music-Genre-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Music-Genre-Classifier&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Music-Genre-Classifier">
-  </a>
+  
   <a href="https://github.com/czarekmilek/NIFS3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=NIFS3&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="NIFS3">
   </a>
