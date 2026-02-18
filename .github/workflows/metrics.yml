@@ -1,34 +1,43 @@
-name: Metrics
+name: Update README cards
+
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      # Języki
-      - name: Languages card
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: metrics-languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: "" 
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, scss
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: no
 
-      # Aktywność
-      - name: Activity card
-        uses: lowlighter/metrics@v3.34
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Ensure directory exists
+        run: mkdir -p profile
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          filename: metrics-activity.svg
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
+          path: profile/stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_recent: yes
-          plugin_recent_limit: 4
-          plugin_repositories: yes
-          plugin_repositories_pinned: 3
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=radical
+          path: profile/top-langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Commit and Push cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update readme stats [skip ci]" || exit 0
+          git push
