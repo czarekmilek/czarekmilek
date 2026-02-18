@@ -1,14 +1,13 @@
-# Hi, I'm Cezary! 👋
-<br>
-
 <table border="0" width="90%" align=center>
   <tr>
-    <td width="60%" valign="top" style="border: none;">
+    <td width="55%" valign="top" style="border: none;">
       <p align="left">
         <strong><h3>🚀 About Me</h3></strong><br/>
         <!-- I am a <b>Computer Science student</b> at the <b>University of Wrocław</b> and a <b>Junior Software Engineer</b>. 
         I specialize in building responsive web applications, with professional background in both <b>Angular</b> and <b>React</b> ecosystems.     -->
+        <div>
         I am a <b>Junior Software Engineer</b> and CS student at the <b>University of Wrocław</b> with professional experience in building scalable web applications. I specialize in <b>Angular</b> and <b>React</b> ecosystems, with interest in <b>LLMs</b> and <b>Machine Learning</b>.
+        </div>
       </p>
       <p align="left"><strong><h3>🎨 Frontend</h3></strong></p>
       <div align="left">
@@ -19,6 +18,7 @@
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/Angular%20Material-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white" />
         <img src="https://img.shields.io/badge/Material%20UI-%2320292a?style=for-the-badge&logo=MUI&logoColor=#007FFF" />
+        <!-- <img src="https://img.shields.io/badge/Headless%20UI-%2320292a?style=for-the-badge&logo=HUI&logoColor=#007FFF" /> -->
         <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
       </div>
       <p align="left"><strong><h3>⚙️ Backend</h3></strong></p>
@@ -92,10 +92,4 @@ A selection of my more interesting work - my engineering thesis, machine learnin
 | **[Kurs projektowania aplikacji z bazami danych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20projektowania%20aplikacji%20z%20bazami%20danych)** | Course on database application design, including modeling, querying, and optimization techniques. |
 
 </details>
-
----
-
-<div align="right">
-  <img src="https://img.shields.io/github/followers/czarekmilek?label=Follow&style=social" />
-</div>
 
