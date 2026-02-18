@@ -60,21 +60,50 @@ jobs:
           path: profile/musicclassifier.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-      # Recent Activity
-      - name: Generate Recent Activity
-        uses: lowlighter/metrics@latest
+
+      - name: Generate NIFS3 tile
+        uses: readme-tools/github-readme-stats-action@v1
         with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=NIFS3&theme=omni
+          path: profile/nifs3.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: ${{ github.repository_owner }}
-          template: classic
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          output_action: commit
-          committer_branch: main
-          filename: profile/activity.svg
+          
+      - name: Generate Traceroute tile
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Traceroute&theme=omni
+          path: profile/traceroute.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+
+      - name: Generate Numbers-Problem tile
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Numbers-Problem&theme=omni
+          path: profile/numbersproblem.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+
+      - name: Generate Chinese-Cell tile
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Chinese-Cell&theme=omni
+          path: profile/chinesecell.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+
+      - name: Generate Coins Problem tile
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Coins-Problem&theme=omni
+          path: profile/coinsproblem.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
 
       - name: Commit and Push cards
         run: |
