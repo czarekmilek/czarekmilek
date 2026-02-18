@@ -87,7 +87,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Persona-Dialectics</text>
+      >Chinese-Cell</text>
     </g>
       </g>
     
@@ -100,14 +100,14 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Multi-agent decision support system. Tests how different</tspan><tspan dy="1.2em" x="25">conversational prompts and "personas" influence the depth,</tspan><tspan dy="1.2em" x="25">consistency and reasoning capabilities of large language...</tspan>
+      <tspan dy="1.2em" x="25">Task D for the Algorithms and Data Structures lab, an</tspan><tspan dy="1.2em" x="25">implementation of a cellular automaton, exploring the</tspan><tspan dy="1.2em" x="25">properties and behaviors of cells in a grid based on a set...</tspan>
     </text>
 
     <g transform="translate(30, 75)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3572A5" />
-      <text data-testid="lang-name" class="gray" x="15">Python</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f34b7d" />
+      <text data-testid="lang-name" class="gray" x="15">C++</text>
     </g>
     </g>
     </g>

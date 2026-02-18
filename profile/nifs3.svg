@@ -87,7 +87,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Persona-Dialectics</text>
+      >NIFS3</text>
     </g>
       </g>
     
@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Multi-agent decision support system. Tests how different</tspan><tspan dy="1.2em" x="25">conversational prompts and "personas" influence the depth,</tspan><tspan dy="1.2em" x="25">consistency and reasoning capabilities of large language...</tspan>
+      <tspan dy="1.2em" x="25">Recreating an image with NIFS3. Includes features for</tspan><tspan dy="1.2em" x="25">statistical analysis, data manipulation, and graphical</tspan><tspan dy="1.2em" x="25">representation.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
