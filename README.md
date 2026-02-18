@@ -55,12 +55,12 @@ A selection of my more interesting work - my engineering thesis, machine learnin
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td><img src="profile/otterlywell.svg" /></td>
-      <td><img src="profile/personadialectics.svg" /></td>
+      <td><a href="https://github.com/czarekmilek/OtterlyWell"><img src="profile/otterlywell.svg" /></a></td>
+      <td><a href="https://github.com/czarekmilek/Persona-Dialectics"><img src="profile/personadialectics.svg" /></a></td>
     </tr>
     <tr>
-      <td><img src="profile/musicclassifier.svg" /></td>
-      <td><img src="profile/pythonlearningplatform.svg" /></td>
+      <td><a href="https://github.com/czarekmilek/Music-Genre-Classifier"><img src="profile/musicclassifier.svg" /></a></td>
+      <td><a href="https://github.com/czarekmilek/Python-Learning-Platform"><img src="profile/pythonlearningplatform.svg" /></a></td>
     </tr>
   </table>
 </div>
