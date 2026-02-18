@@ -8,23 +8,26 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Languages Card
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: czarekmilek
-          template: classic
-          base: header # Basic info (name, etc.)
-          config_timezone: Europe/Warsaw
-          
-          # 1. LANGUAGES
+          template: repository
+          base: "" # Removes the header/avatar to save space
           plugin_languages: yes
+          plugin_languages_ignored: html, css
           plugin_languages_details: percentage
-          
-          # 2. FEATURED REPOS
-          plugin_repositories: yes
-          plugin_repositories_pinned: 4
-          
-          # 3. LAST ACTIVITY
+          plugin_languages_sections: most-used
+
+      # Activity/Repo Card
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: repository
+          base: "" 
           plugin_recent: yes
-          plugin_recent_sections: last
-          plugin_recent_limit: 5
+          plugin_recent_limit: 4
+          plugin_repositories: yes
+          plugin_repositories_pinned: 3
