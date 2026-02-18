@@ -1,16 +1,78 @@
-<!-- <h2 align="left">Hi, I'm Cezary!</h1> -->
-<!-- <h3 align="left">Computer Science student at University of Wrocław</h3> -->
+# Hi, I'm Cezary! 👋
+<br>
 
-<div align=left>
+<table border="0" width="90%" align=center>
+  <tr>
+    <td width="60%" valign="top" style="border: none;">
+      <p align="left">
+        <strong><h3>🚀 About Me</h3></strong><br/>
+        <!-- I am a <b>Computer Science student</b> at the <b>University of Wrocław</b> and a <b>Junior Software Engineer</b>. 
+        I specialize in building responsive web applications, with professional background in both <b>Angular</b> and <b>React</b> ecosystems.     -->
+        I am a <b>Junior Software Engineer</b> and CS student at the <b>University of Wrocław</b> with professional experience in building scalable web applications. I specialize in <b>Angular</b> and <b>React</b> ecosystems, with interest in <b>LLMs</b> and <b>Machine Learning</b>.
+      </p>
+      <p align="left"><strong><h3>🎨 Frontend</h3></strong></p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular%20Material-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Material%20UI-%2320292a?style=for-the-badge&logo=MUI&logoColor=#007FFF" />
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+      </div>
+      <p align="left"><strong><h3>⚙️ Backend</h3></strong></p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/postgresql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      </div>
+      <p align="left"><strong><h3>🧠 AI & Research</h3></strong></p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/LLM-blue?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-teal?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-gray?style=for-the-badge&logo=openai&logoColor=white" />
+      </div>
+      <!-- <p align="left"><strong><h3>🛃 Version Control</h3></strong></p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/svn-yellow?style=for-the-badge&logo=svn&logoColor=white" />
+      </div> -->
+    </td>
+    <td width="full" align="right" valign="middle" style="border: none;">
+      <img src="profile/top-langs.svg" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<!-- <h3>💻 GitHub Profile Stats</h3> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Langauges" height="185"/> -->
-<!--
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Commits" height="185"/>
--->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=czarekmilek&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Stats" height="185"/> -->
+---
 
-<h3 align="left">University courses 📚</h3>
+### 👀 Featured Projects
+A selection of my more interesting work - my engineering thesis, machine learning, and LLM-related projects.
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td><img src="profile/otterlywell.svg" /></td>
+      <td><img src="profile/personadialectics.svg" /></td>
+    </tr>
+    <tr>
+      <td><img src="profile/musicclassifier.svg" /></td>
+      <td><img src="profile/pythonlearningplatform.svg" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🎓 University Coursework (UWR)
+<details>
+<summary>Click to expand full course list with references
+</summary>
+
+<br>
 
 | **Name** | **Description** |
 |----------|-----------------|
@@ -29,47 +91,11 @@
 | **[Kurs: React](https://github.com/czarekmilek/UWR/tree/main/Kurs%20React)** | Comprehensive course on React. |
 | **[Kurs projektowania aplikacji z bazami danych](https://github.com/czarekmilek/UWR/tree/main/Kurs%20projektowania%20aplikacji%20z%20bazami%20danych)** | Course on database application design, including modeling, querying, and optimization techniques. |
 
-</div>
-
-<!-- <h3 align="left">Some other projects</h3> -->
-
-<!-- <div class="grid-container">
-  <a href="https://github.com/czarekmilek/Music-Genre-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Music-Genre-Classifier&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Music-Genre-Classifier">
-  </a>
-  <a href="https://github.com/czarekmilek/NIFS3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=NIFS3&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="NIFS3">
-  </a>
-  <a href="https://github.com/czarekmilek/GreenVeggies">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=GreenVeggies&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact&width=500&height=120" alt="GreenVeggies stats">
-  </a>
-    <a href="https://github.com/czarekmilek/Ben10_TextGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Ben10_TextGame&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Ben10_TextGame stats">
-  </a>
-  <a href="https://github.com/czarekmilek/Traceroute">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Traceroute&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Traceroute">
-  </a>
-  <a href="https://github.com/czarekmilek/Numbers-Problem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Numbers-Problem&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Numbers-Problem stats">
-  </a>
-    <a href="https://github.com/czarekmilek/Chinese-Cell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Chinese-Cell&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Chinese-Cell stats">
-  </a>
-    <a href="https://github.com/czarekmilek/Coins-Problem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=czarekmilek&repo=Coins-Problem&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Coins-Problem stats">
-  </a>
-</div> -->
-
-<!-- <a href="https://github.com/czarekmilek?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=pink&logo=repo"/></a> -->
-
+</details>
 
 ---
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<div align="right">
+  <img src="https://img.shields.io/github/followers/czarekmilek?label=Follow&style=social" />
+</div>
 
