@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Web application designed to help users track and improve</tspan><tspan dy="1.2em" x="25">their mental and physical well-being through personalized</tspan><tspan dy="1.2em" x="25">habit tracking.</tspan>
+      <tspan dy="1.2em" x="25">Final thesis project at the University of Wroc&#322;aw. A</tspan><tspan dy="1.2em" x="25">versatile web application designed to help users track and</tspan><tspan dy="1.2em" x="25">improve their mental and physical well-being through...</tspan>
     </text>
 
     <g transform="translate(30, 75)">
