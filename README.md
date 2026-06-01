@@ -6,7 +6,7 @@
         <!-- I am a <b>Computer Science student</b> at the <b>University of Wrocław</b> and a <b>Junior Software Engineer</b>. 
         I specialize in building responsive web applications, with professional background in both <b>Angular</b> and <b>React</b> ecosystems.     -->
         <div>
-        I am a <b>Junior Software Engineer</b> and CS student at the <b>University of Wrocław</b> with professional experience in building scalable web applications. I specialize in <b>Angular</b> and <b>React</b> ecosystems, with interest in <b>LLMs</b> and <b>Machine Learning</b>.
+       I am a <b>Junior Software Engineer</b> with 2+ years of professional experience building scalable web applications. I specialize in the <b>Angular</b> and <b>React</b> ecosystems, and have big interest in <b>LLMs</b>, <b>AI</b>.
         </div>
       </p>
       <p align="left"><strong><h3>🎨 Frontend</h3></strong></p>
@@ -26,11 +26,14 @@
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/go-lightblue.svg?style=for-the-badge&logo=go&logoColor=black" />
         <img src="https://img.shields.io/badge/postgresql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
       </div>
-      <p align="left"><strong><h3>🧠 AI & Research</h3></strong></p>
+      <p align="left"><strong><h3>🧠 AI & LLMs</h3></strong></p>
       <div align="left">
+        <img src="https://img.shields.io/badge/Spring%20AI-green?style=for-the-badge&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-orange?style=for-the-badge&logo=MCP&logoColor=white" />
         <img src="https://img.shields.io/badge/LLM-blue?style=for-the-badge&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Machine%20Learning-teal?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/Prompt%20Engineering-gray?style=for-the-badge&logo=openai&logoColor=white" />
