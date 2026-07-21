@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=pie&langs_count=6&theme=omni
+          options: username=${{ github.repository_owner }}&layout=pie&langs_count=6&theme=omni&bg_color=00000000&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -32,7 +32,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=OtterlyWell&theme=omni
+          options: username=${{ github.repository_owner }}&repo=OtterlyWell&theme=omni&bg_color=00000000&hide_border=true
           path: profile/otterlywell.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -40,7 +40,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Persona-Dialectics&theme=omni
+          options: username=${{ github.repository_owner }}&repo=Persona-Dialectics&theme=omni&bg_color=00000000&hide_border=true
           path: profile/personadialectics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -48,7 +48,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Python-Learning-Platform&theme=omni
+          options: username=${{ github.repository_owner }}&repo=Python-Learning-Platform&theme=omni&bg_color=00000000&hide_border=true
           path: profile/pythonlearningplatform.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -56,7 +56,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Music-Genre-Classifier&theme=omni
+          options: username=${{ github.repository_owner }}&repo=Music-Genre-Classifier&theme=omni&bg_color=00000000&hide_border=true
           path: profile/musicclassifier.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -65,7 +65,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=NIFS3&theme=omni
+          options: username=${{ github.repository_owner }}&repo=NIFS3&theme=omni&bg_color=00000000&hide_border=true
           path: profile/nifs3.svg
           token: ${{ secrets.METRICS_TOKEN }}
           
@@ -73,7 +73,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Traceroute&theme=omni
+          options: username=${{ github.repository_owner }}&repo=Traceroute&theme=omni&bg_color=00000000&hide_border=true
           path: profile/traceroute.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -82,7 +82,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Numbers-Problem&theme=omni
+          options: username=${{ github.repository_owner }}&repo=Numbers-Problem&theme=omni&bg_color=00000000&hide_border=true
           path: profile/numbersproblem.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -91,7 +91,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Chinese-Cell&theme=omni
+          options: username=${{ github.repository_owner }}&repo=Chinese-Cell&theme=omni&bg_color=00000000&hide_border=true
           path: profile/chinesecell.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -100,7 +100,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Coins-Problem&theme=omni
+          options: username=${{ github.repository_owner }}&repo=Coins-Problem&theme=omni&bg_color=00000000&hide_border=true
           path: profile/coinsproblem.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
